@@ -1,4 +1,5 @@
 *.swp
+temp_*
 target/
 **/*.rs.bk
 .DS_Store
